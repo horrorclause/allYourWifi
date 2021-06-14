@@ -2,9 +2,7 @@
 
 '''
 allYourWifi belong to me! Gather the SSIDs and passwords of all wireless access points a windows device
-has been connected to. Must be run from an Admin account. This is obviously for educational purposes only
-
-- Horrorclause
+has been connected to. Must be run from an Admin account. This is obviously for educational purposes only.
 '''
 
 import os
